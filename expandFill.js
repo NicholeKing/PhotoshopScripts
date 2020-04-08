@@ -5,4 +5,5 @@ if(isNaN(expandAmount)){
 } else {
 	app.activeDocument.selection.expand(expandAmount);
 	app.activeDocument.selection.fill(app.foregroundColor);	
+	app.activeDocument.selection.deselect();
 }
