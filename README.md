@@ -1,5 +1,5 @@
 # PhotoShopScripts
-A library of scripts I've written to streamline my processes in PhotoShop, more to come
+A library of scripts I've written to streamline my processes in Photoshop, more to come
 ## Adding the Script to Your Photoshop
 ### Windows
 Copy the .js or .jsx file you want to add to your Scripts.
@@ -25,6 +25,8 @@ Go to Edit > Keyboard Shortcuts.
 In the window that will open, click File, scroll down until you see a sub-header for Scripts, you will see your script underneath, click on it and you will be able to set a new keyboard shortcut for it (just hit the buttons you want to use as a shortcut, Photoshop will tell you if it's already in use or not).
 
 Apply your changes.
+
+# The Scripts 
 
 ## Expand Fill
 Expand fill prompts you for an amount you wish to expand a selection by and then fills that selection with the foreground color -- I often use this when coloring in the base of my lineart, and Photoshop doesn't have a hotkey for the expand tool so it used to be so tedious. 
