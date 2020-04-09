@@ -1,5 +1,5 @@
 # PhotoShopScripts
-A library of scripts I've written to streamline my processes in PhotoShop, more to come
+A library of scripts I've written to streamline my processes in Photoshop, more to come
 ## Adding the Script to Your Photoshop
 ### Windows
 Copy the .js or .jsx file you want to add to your Scripts.
@@ -26,7 +26,14 @@ In the window that will open, click File, scroll down until you see a sub-header
 
 Apply your changes.
 
+# The Scripts
+
 ## Expand Fill
-Expand fill prompts you for an amount you wish to expand a selection by and then fills that selection with the foreground color -- I often use this when coloring in the base of my lineart, and Photoshop doesn't have a hotkey for the expand tool so it used to be so tedious. 
+Expand fill prompts you for an amount you wish to expand a selection by and then fills that selection with the foreground color. I often use this when coloring in the base of my lineart, and Photoshop doesn't have a hotkey for the expand tool so it used to be so tedious. 
 
 *Requires that you have a selection made in order to work.*
+
+## Guide Set
+Creates a series of horizontal guides down the entire document based on a spacing amount (in pixels) you provide upon prompt. Ex: putting in 120 will create guides down your document that are spaced 120 pixels apart. Useful for segmenting the document without having to do it by hand. (Also a little simpler to use than the built in guide layout.)
+
+*Note: Additional features like picking between horizontal or vertical divides coming soon.*
