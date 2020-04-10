@@ -1,10 +1,10 @@
-# PhotoShopScripts
-A library of scripts I've written to streamline my processes in Photoshop, more to come
+# PhotoshopScripts
+A library of scripts I've written to streamline my processes in Photoshop -- more to come as I get ideas
 ## Adding the Script to Your Photoshop
 ### Windows
-Copy the .js or .jsx file you want to add to your Scripts.
+Copy the .js file you want to add to Photoshop. (Also accepts .jsx files.)
 
-Navigate to your Program Files folder on your computer and find the Photoshop folder.
+Navigate to your Program Files folder on your computer (go to This PC and select the proper drive, probably the C-drive) and find the Photoshop folder. (Should be inside an Adobe folder.)
 
 Navigate into the Presets folder > go into the Scripts folder > paste the file in (you will need to give permission).
 
@@ -22,7 +22,7 @@ Start up Photoshop (or restart if you already had it open) and go to File > Scri
 ## Setting your script as a keyboard shortcut
 Go to Edit > Keyboard Shortcuts.
 
-In the window that will open, click File, scroll down until you see a sub-header for Scripts, you will see your script underneath, click on it and you will be able to set a new keyboard shortcut for it (just hit the buttons you want to use as a shortcut, Photoshop will tell you if it's already in use or not).
+In the window that will open, click File, scroll down until you see a sub-header for Scripts, you will see your script nested inside. Click on it and you will be able to set a new keyboard shortcut for it (just hit the buttons you want to use as a shortcut, Photoshop will tell you if it's already in use or not).
 
 Apply your changes.
 
@@ -34,6 +34,7 @@ Expand fill prompts you for an amount you wish to expand a selection by and then
 *Requires that you have a selection made in order to work.*
 
 ## Guide Set
-Creates a series of horizontal guides down the entire document based on a spacing amount (in pixels) you provide upon prompt. Ex: putting in 120 will create guides down your document that are spaced 120 pixels apart. Useful for segmenting the document without having to do it by hand. (Also a little simpler to use than the built in guide layout.)
+Creates guides vertically or horizontally across the entire document based on your direction chosen and a spacing amount (in pixels) you provide upon prompt. 
 
-*Note: Additional features like picking between horizontal or vertical divides coming soon.*
+Ex: Selecting horizontal and a spacing of 120 will create guides horizontally down your document that are spaced 120 pixels apart. Useful for segmenting the document without having to do it by hand. (Also a little simpler to use than the built in guide layout.)
+
