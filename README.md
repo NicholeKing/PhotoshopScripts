@@ -15,7 +15,7 @@ Copy the .js or .jsx file you want to add to your Scripts.
 
 Navigate to your Applications and open the Photoshop folder.
 
-Go into the Defaults folder > enter the Scripts folder > paste the file in (you will need to give permission).
+Go into the Presets folder > enter the Scripts folder > paste the file in (you will need to give permission).
 
 Start up Photoshop (or restart if you already had it open) and go to File > Scripts and you will see the new script there.
 
