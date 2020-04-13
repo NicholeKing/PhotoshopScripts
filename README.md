@@ -38,3 +38,6 @@ Creates guides vertically or horizontally across the entire document based on yo
 
 Ex: Selecting horizontal and a spacing of 120 will create guides horizontally down your document that are spaced 120 pixels apart. Useful for segmenting the document without having to do it by hand. (Also a little simpler to use than the built in guide layout.)
 
+## Add Multiple Layers
+Lets you create multiple layers at once and customize a base naming convention to give to the layers. For example, you can create 4 layers named "Color" + "# iteration". 
+
